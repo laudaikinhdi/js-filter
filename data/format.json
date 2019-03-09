@@ -1,0 +1,17 @@
+{
+    "price": {
+        "locale": "de-DE",
+        "options": {
+            "style": "currency",
+            "currency": "EUR"
+        },
+        "prefix": "",
+        "suffix": ""
+    },
+    "rating": {
+        "locale": "en-GB",
+        "options": [],
+        "prefix": "\u2b50",
+        "suffix": ""
+    }
+}

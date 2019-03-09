@@ -1,0 +1,193 @@
+[
+    {
+        "name": "name",
+        "displayName": "Name",
+        "type": "text"
+    },
+    {
+        "name": "detail",
+        "displayName": "Detail",
+        "type": "text"
+    },
+    {
+        "name": "rating",
+        "displayName": "Rating",
+        "type": "slider",
+        "data": {
+            "min": 0,
+            "max": 5,
+            "step": 1
+        }
+    },
+    {
+        "name": "price",
+        "displayName": "Price",
+        "type": "slider",
+        "data": {
+            "min": 500,
+            "max": 10000,
+            "step": 500
+        }
+    },
+    {
+        "name": "date",
+        "displayName": "Date",
+        "type": "date"
+    },
+    {
+        "name": "manufactory",
+        "displayName": "Manufactory",
+        "type": "radio",
+        "data": [
+            {
+                "value": "",
+                "displayValue": "Select All"
+            },
+            {
+                "value": "toshiba",
+                "displayValue": "Toshiba"
+            },
+            {
+                "value": "samsung",
+                "displayValue": "Samsung"
+            },
+            {
+                "value": "sony",
+                "displayValue": "Sony"
+            },
+            {
+                "value": "hp",
+                "displayValue": "HP"
+            },
+            {
+                "value": "lenovo",
+                "displayValue": "Lenovo"
+            },
+            {
+                "value": "acer",
+                "displayValue": "Acer"
+            },
+            {
+                "value": "asus",
+                "displayValue": "Asus"
+            },
+            {
+                "value": "xiaomi",
+                "displayValue": "Xiaomi"
+            },
+            {
+                "value": "dell",
+                "displayValue": "Dell"
+            }
+        ]
+    },
+    {
+        "name": "cpu",
+        "displayName": "Cpu",
+        "type": "checkbox",
+        "data": [
+            {
+                "value": "dual-core",
+                "displayValue": "dual core"
+            },
+            {
+                "value": "core-i7",
+                "displayValue": "core i7"
+            },
+            {
+                "value": "core-i5",
+                "displayValue": "core i5"
+            },
+            {
+                "value": "core-i3",
+                "displayValue": "core i3"
+            },
+            {
+                "value": "pen-v",
+                "displayValue": "pen V"
+            },
+            {
+                "value": "pen-iv",
+                "displayValue": "pen IV"
+            },
+            {
+                "value": "pen-iii",
+                "displayValue": "pen III"
+            },
+            {
+                "value": "arm",
+                "displayValue": "arm"
+            },
+            {
+                "value": "celeron",
+                "displayValue": "celeron"
+            }
+        ]
+    },
+    {
+        "name": "ram",
+        "displayName": "Ram",
+        "type": "select",
+        "data": [
+            {
+                "value": "",
+                "displayValue": "Select All"
+            },
+            {
+                "value": "2-gb",
+                "displayValue": "2 GB"
+            },
+            {
+                "value": "4-gb",
+                "displayValue": "4 GB"
+            },
+            {
+                "value": "6-gb",
+                "displayValue": "6 GB"
+            },
+            {
+                "value": "8-gb",
+                "displayValue": "8 GB"
+            },
+            {
+                "value": "16-gb",
+                "displayValue": "16 GB"
+            },
+            {
+                "value": "32-gb",
+                "displayValue": "32 GB"
+            },
+            {
+                "value": "64-gb",
+                "displayValue": "64 GB"
+            }
+        ]
+    },
+    {
+        "name": "hdd",
+        "displayName": "Hdd",
+        "type": "multiselect",
+        "data": [
+            {
+                "value": "100-gb",
+                "displayValue": "100 GB"
+            },
+            {
+                "value": "200-gb",
+                "displayValue": "200 GB"
+            },
+            {
+                "value": "500-gb",
+                "displayValue": "500 GB"
+            },
+            {
+                "value": "1-tb",
+                "displayValue": "1 TB"
+            },
+            {
+                "value": "2-tb",
+                "displayValue": "2 TB"
+            }
+        ]
+    }
+]

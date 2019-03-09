@@ -1,0 +1,5308 @@
+[
+    {
+        "id": "i0",
+        "name": "Gerhold-Roberts",
+        "detail": "Quae temporibus quisquam expedita dolorem dignissimos. Culpa et officiis et rem inventore. Omnis rem delectus ut expedita consequatur quia. Culpa eos quod dignissimos sed illum nihil.",
+        "rating": 0.1,
+        "price": 8515,
+        "date": "2018-04-12 23:46:36",
+        "manufactory": {
+            "value": [
+                "acer",
+                "sony",
+                "lenovo"
+            ],
+            "displayValue": [
+                "Acer",
+                "Sony",
+                "Lenovo"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7",
+                "dual-core",
+                "core-i3",
+                "core-i5",
+                "pen-iii"
+            ],
+            "displayValue": [
+                "core i7",
+                "dual core",
+                "core i3",
+                "core i5",
+                "pen III"
+            ]
+        },
+        "ram": {
+            "value": [
+                "8-gb"
+            ],
+            "displayValue": [
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "200-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "200 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i1",
+        "name": "Fritsch, Wisozk and Boehm",
+        "detail": "Architecto et et et accusantium aut laborum. Qui sed provident dolorum animi dicta. Sed aut expedita autem illo. Nihil nam iste blanditiis aspernatur omnis quia autem ab.",
+        "rating": 1.8,
+        "price": 971,
+        "date": "2018-08-22 19:08:06",
+        "manufactory": {
+            "value": [
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iv",
+                "core-i7"
+            ],
+            "displayValue": [
+                "pen IV",
+                "core i7"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "64-gb",
+                "4-gb",
+                "2-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "64 GB",
+                "4 GB",
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "100-gb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i2",
+        "name": "Kessler, Eichmann and Willms",
+        "detail": "Neque eaque quo explicabo repellat delectus odio recusandae. Omnis at est ex. Eveniet fugiat modi ratione.",
+        "rating": 3.8,
+        "price": 1369,
+        "date": "2018-05-10 09:21:53",
+        "manufactory": {
+            "value": [
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i3",
+                "pen-iv"
+            ],
+            "displayValue": [
+                "core i3",
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "6-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "6 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "100-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "100 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i3",
+        "name": "Marks-Okuneva",
+        "detail": "Consequuntur aut provident ratione ullam quia. Non error quidem voluptatum voluptas. Quo aut facilis dolore modi.",
+        "rating": 3.5,
+        "price": 4439,
+        "date": "2019-02-01 19:59:52",
+        "manufactory": {
+            "value": [
+                "acer",
+                "hp"
+            ],
+            "displayValue": [
+                "Acer",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i5",
+                "arm"
+            ],
+            "displayValue": [
+                "core i5",
+                "arm"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "6-gb",
+                "8-gb",
+                "64-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "6 GB",
+                "8 GB",
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "2-tb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i4",
+        "name": "Satterfield-Prosacco",
+        "detail": "Tempore officia a tenetur nesciunt quidem. Velit inventore ab cum voluptatem quas voluptas. Facere qui minus reiciendis nulla eum est.",
+        "rating": 3,
+        "price": 9499,
+        "date": "2018-05-03 18:31:30",
+        "manufactory": {
+            "value": [
+                "dell",
+                "toshiba",
+                "asus",
+                "lenovo"
+            ],
+            "displayValue": [
+                "Dell",
+                "Toshiba",
+                "Asus",
+                "Lenovo"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core",
+                "core-i7"
+            ],
+            "displayValue": [
+                "dual core",
+                "core i7"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb",
+                "8-gb"
+            ],
+            "displayValue": [
+                "2 GB",
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i5",
+        "name": "Spinka, Dare and Marquardt",
+        "detail": "Illo consequatur consequuntur facere nisi tempora deleniti. Harum vel et sed asperiores quod quod. Cupiditate non magni ipsam corporis et dolore.",
+        "rating": 4.7,
+        "price": 840,
+        "date": "2018-08-14 01:42:35",
+        "manufactory": {
+            "value": [
+                "lenovo"
+            ],
+            "displayValue": [
+                "Lenovo"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i5"
+            ],
+            "displayValue": [
+                "core i5"
+            ]
+        },
+        "ram": {
+            "value": [
+                "64-gb",
+                "16-gb",
+                "8-gb",
+                "6-gb"
+            ],
+            "displayValue": [
+                "64 GB",
+                "16 GB",
+                "8 GB",
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb"
+            ],
+            "displayValue": [
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i6",
+        "name": "Senger Inc",
+        "detail": "Debitis hic ipsum fuga excepturi dignissimos aspernatur modi qui. Perspiciatis dignissimos id expedita eum iste ad dolorum. Vero autem voluptatem cum quaerat rerum.",
+        "rating": 2.5,
+        "price": 3613,
+        "date": "2018-12-07 08:29:26",
+        "manufactory": {
+            "value": [
+                "acer",
+                "sony",
+                "dell",
+                "asus",
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Acer",
+                "Sony",
+                "Dell",
+                "Asus",
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "celeron",
+                "pen-iii",
+                "arm",
+                "pen-iv",
+                "dual-core"
+            ],
+            "displayValue": [
+                "celeron",
+                "pen III",
+                "arm",
+                "pen IV",
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb"
+            ],
+            "displayValue": [
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb",
+                "1-tb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "100 GB",
+                "1 TB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i7",
+        "name": "Bailey-Miller",
+        "detail": "Quia sed sed eos. Omnis vel voluptatem voluptates dolorem veritatis tenetur eum. Omnis sunt voluptatum consequuntur similique ipsam.",
+        "rating": 1.1,
+        "price": 9441,
+        "date": "2018-12-03 11:07:57",
+        "manufactory": {
+            "value": [
+                "asus",
+                "xiaomi",
+                "hp",
+                "acer"
+            ],
+            "displayValue": [
+                "Asus",
+                "Xiaomi",
+                "HP",
+                "Acer"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7"
+            ],
+            "displayValue": [
+                "core i7"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb",
+                "6-gb"
+            ],
+            "displayValue": [
+                "2 GB",
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "100-gb",
+                "500-gb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "100 GB",
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i8",
+        "name": "Tromp PLC",
+        "detail": "Ad voluptatibus rerum voluptatem. Labore sint omnis quisquam quis qui. Harum laborum doloremque nostrum soluta dolorem non quia.",
+        "rating": 4,
+        "price": 9083,
+        "date": "2018-07-29 05:36:24",
+        "manufactory": {
+            "value": [
+                "lenovo",
+                "asus"
+            ],
+            "displayValue": [
+                "Lenovo",
+                "Asus"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i5"
+            ],
+            "displayValue": [
+                "core i5"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb"
+            ],
+            "displayValue": [
+                "4 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i9",
+        "name": "Streich Ltd",
+        "detail": "Animi non repellendus quia unde aliquid earum sint. Provident recusandae iure sit et. Odit natus et accusamus dolor nulla quos.",
+        "rating": 0,
+        "price": 2135,
+        "date": "2018-10-17 04:58:43",
+        "manufactory": {
+            "value": [
+                "samsung",
+                "dell"
+            ],
+            "displayValue": [
+                "Samsung",
+                "Dell"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i5",
+                "arm",
+                "celeron",
+                "dual-core"
+            ],
+            "displayValue": [
+                "core i5",
+                "arm",
+                "celeron",
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "6-gb",
+                "16-gb",
+                "2-gb"
+            ],
+            "displayValue": [
+                "6 GB",
+                "16 GB",
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb",
+                "2-tb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "100 GB",
+                "2 TB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i10",
+        "name": "Gaylord and Sons",
+        "detail": "Tempore error est eos distinctio recusandae. Amet ea molestias consequuntur error. Impedit tempore facilis fugiat nisi laboriosam enim aut ipsa.",
+        "rating": 0.2,
+        "price": 3659,
+        "date": "2018-06-26 05:07:50",
+        "manufactory": {
+            "value": [
+                "asus",
+                "samsung"
+            ],
+            "displayValue": [
+                "Asus",
+                "Samsung"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "arm",
+                "pen-iii",
+                "core-i5",
+                "dual-core"
+            ],
+            "displayValue": [
+                "arm",
+                "pen III",
+                "core i5",
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "64-gb",
+                "6-gb",
+                "4-gb"
+            ],
+            "displayValue": [
+                "64 GB",
+                "6 GB",
+                "4 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb"
+            ],
+            "displayValue": [
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i11",
+        "name": "Runolfsdottir-Waters",
+        "detail": "Aperiam eligendi dolorem distinctio deserunt quas et tempore atque. Sunt sed quam amet nam est et. Fuga qui non libero qui saepe aliquid libero saepe. Esse perspiciatis beatae facilis cumque.",
+        "rating": 2.1,
+        "price": 1252,
+        "date": "2019-02-16 07:53:09",
+        "manufactory": {
+            "value": [
+                "asus",
+                "dell",
+                "acer",
+                "xiaomi",
+                "toshiba"
+            ],
+            "displayValue": [
+                "Asus",
+                "Dell",
+                "Acer",
+                "Xiaomi",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7",
+                "pen-iv",
+                "arm"
+            ],
+            "displayValue": [
+                "core i7",
+                "pen IV",
+                "arm"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb",
+                "32-gb",
+                "8-gb",
+                "2-gb"
+            ],
+            "displayValue": [
+                "4 GB",
+                "32 GB",
+                "8 GB",
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "1-tb",
+                "100-gb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "1 TB",
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i12",
+        "name": "Kemmer-Kertzmann",
+        "detail": "Perspiciatis voluptatem ipsam blanditiis nostrum odit totam. At fugiat quaerat praesentium nihil. Ab ut est dignissimos nemo. Et quis ea id est dolores asperiores.",
+        "rating": 3,
+        "price": 5358,
+        "date": "2018-12-02 11:31:57",
+        "manufactory": {
+            "value": [
+                "toshiba",
+                "sony",
+                "xiaomi",
+                "dell",
+                "hp"
+            ],
+            "displayValue": [
+                "Toshiba",
+                "Sony",
+                "Xiaomi",
+                "Dell",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core",
+                "celeron",
+                "arm"
+            ],
+            "displayValue": [
+                "dual core",
+                "celeron",
+                "arm"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb",
+                "64-gb"
+            ],
+            "displayValue": [
+                "16 GB",
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "2-tb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i13",
+        "name": "Lehner, Dickens and Auer",
+        "detail": "Ipsam a qui nihil enim impedit facilis laboriosam. Nisi doloremque quis deleniti aliquid. Fugit esse est facilis voluptatem. Vel itaque maxime accusantium id.",
+        "rating": 0.2,
+        "price": 4742,
+        "date": "2018-10-25 19:11:20",
+        "manufactory": {
+            "value": [
+                "hp",
+                "sony",
+                "dell",
+                "xiaomi"
+            ],
+            "displayValue": [
+                "HP",
+                "Sony",
+                "Dell",
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "celeron",
+                "dual-core"
+            ],
+            "displayValue": [
+                "celeron",
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "64-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb",
+                "1-tb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "100 GB",
+                "1 TB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i14",
+        "name": "O'Kon PLC",
+        "detail": "Incidunt a sint at quis eligendi sit ipsa occaecati. Qui ut quaerat et iusto vero ab suscipit non. At nisi vel quo tenetur ex. Id et quia ab error cupiditate accusamus voluptas.",
+        "rating": 4.1,
+        "price": 2428,
+        "date": "2018-09-30 02:37:41",
+        "manufactory": {
+            "value": [
+                "hp",
+                "toshiba"
+            ],
+            "displayValue": [
+                "HP",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i3"
+            ],
+            "displayValue": [
+                "core i3"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "2-gb",
+                "16-gb",
+                "8-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "2 GB",
+                "16 GB",
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "500-gb",
+                "100-gb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "500 GB",
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i15",
+        "name": "Dietrich LLC",
+        "detail": "Et necessitatibus modi laboriosam quod velit. Ut molestias et in omnis dignissimos sapiente itaque aut. Quibusdam id dolor amet fugit voluptatem cum.",
+        "rating": 2.8,
+        "price": 7925,
+        "date": "2018-04-16 08:30:36",
+        "manufactory": {
+            "value": [
+                "hp",
+                "toshiba",
+                "xiaomi",
+                "samsung",
+                "lenovo"
+            ],
+            "displayValue": [
+                "HP",
+                "Toshiba",
+                "Xiaomi",
+                "Samsung",
+                "Lenovo"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "celeron",
+                "pen-iii"
+            ],
+            "displayValue": [
+                "celeron",
+                "pen III"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb",
+                "32-gb",
+                "8-gb"
+            ],
+            "displayValue": [
+                "4 GB",
+                "32 GB",
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb"
+            ],
+            "displayValue": [
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i16",
+        "name": "Deckow LLC",
+        "detail": "Saepe fuga modi non reiciendis temporibus in ut mollitia. Qui voluptatibus autem et commodi. Hic ab quo et voluptatem neque.",
+        "rating": 2.7,
+        "price": 9949,
+        "date": "2018-12-23 08:13:10",
+        "manufactory": {
+            "value": [
+                "acer",
+                "dell",
+                "toshiba",
+                "sony",
+                "samsung"
+            ],
+            "displayValue": [
+                "Acer",
+                "Dell",
+                "Toshiba",
+                "Sony",
+                "Samsung"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i3",
+                "core-i7",
+                "pen-iii",
+                "dual-core",
+                "celeron"
+            ],
+            "displayValue": [
+                "core i3",
+                "core i7",
+                "pen III",
+                "dual core",
+                "celeron"
+            ]
+        },
+        "ram": {
+            "value": [
+                "64-gb",
+                "16-gb",
+                "8-gb"
+            ],
+            "displayValue": [
+                "64 GB",
+                "16 GB",
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb"
+            ],
+            "displayValue": [
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i17",
+        "name": "Davis, Reichert and Herzog",
+        "detail": "Qui ea voluptate nulla earum nulla enim id. Sint consectetur nihil dicta iure sit et blanditiis. Tempora aut culpa suscipit est corrupti consectetur.",
+        "rating": 1,
+        "price": 6691,
+        "date": "2018-09-03 14:40:21",
+        "manufactory": {
+            "value": [
+                "acer",
+                "dell",
+                "hp",
+                "samsung"
+            ],
+            "displayValue": [
+                "Acer",
+                "Dell",
+                "HP",
+                "Samsung"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core",
+                "arm",
+                "core-i7",
+                "pen-v",
+                "core-i5"
+            ],
+            "displayValue": [
+                "dual core",
+                "arm",
+                "core i7",
+                "pen V",
+                "core i5"
+            ]
+        },
+        "ram": {
+            "value": [
+                "64-gb",
+                "2-gb",
+                "8-gb"
+            ],
+            "displayValue": [
+                "64 GB",
+                "2 GB",
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb"
+            ],
+            "displayValue": [
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i18",
+        "name": "Wehner, Konopelski and Hills",
+        "detail": "Consequatur veritatis ea magni dolorem veniam dolorem corporis minus. Est magni dolor ea vel numquam qui. Et iste laborum architecto nihil ab sit.",
+        "rating": 0.2,
+        "price": 9721,
+        "date": "2018-11-22 03:01:42",
+        "manufactory": {
+            "value": [
+                "lenovo",
+                "toshiba",
+                "dell",
+                "hp",
+                "sony"
+            ],
+            "displayValue": [
+                "Lenovo",
+                "Toshiba",
+                "Dell",
+                "HP",
+                "Sony"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "arm",
+                "pen-v",
+                "celeron"
+            ],
+            "displayValue": [
+                "arm",
+                "pen V",
+                "celeron"
+            ]
+        },
+        "ram": {
+            "value": [
+                "64-gb"
+            ],
+            "displayValue": [
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "1 TB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i19",
+        "name": "Konopelski-Toy",
+        "detail": "Qui vero deserunt eum ratione delectus sint doloribus. Voluptate sunt animi esse numquam. Aut dolores quia rerum voluptatem. Consequatur provident aut culpa et.",
+        "rating": 0.1,
+        "price": 3473,
+        "date": "2018-12-13 03:41:49",
+        "manufactory": {
+            "value": [
+                "asus",
+                "dell",
+                "hp"
+            ],
+            "displayValue": [
+                "Asus",
+                "Dell",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i3",
+                "pen-iii",
+                "celeron",
+                "pen-v",
+                "arm"
+            ],
+            "displayValue": [
+                "core i3",
+                "pen III",
+                "celeron",
+                "pen V",
+                "arm"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb",
+                "16-gb"
+            ],
+            "displayValue": [
+                "4 GB",
+                "16 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i20",
+        "name": "Howell, Thiel and Bednar",
+        "detail": "Aliquid cumque molestiae voluptate omnis. Quo iusto culpa pariatur dolor animi quis. Et et est tempora ad aperiam enim doloribus.",
+        "rating": 0.6,
+        "price": 6638,
+        "date": "2018-06-08 00:33:08",
+        "manufactory": {
+            "value": [
+                "dell",
+                "samsung",
+                "sony",
+                "acer"
+            ],
+            "displayValue": [
+                "Dell",
+                "Samsung",
+                "Sony",
+                "Acer"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iii",
+                "core-i3",
+                "celeron",
+                "pen-v"
+            ],
+            "displayValue": [
+                "pen III",
+                "core i3",
+                "celeron",
+                "pen V"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb",
+                "32-gb",
+                "16-gb",
+                "6-gb"
+            ],
+            "displayValue": [
+                "4 GB",
+                "32 GB",
+                "16 GB",
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb",
+                "2-tb"
+            ],
+            "displayValue": [
+                "1 TB",
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i21",
+        "name": "Watsica LLC",
+        "detail": "Id nulla pariatur aut rerum dolorem unde. Eaque dolores in maxime distinctio. Exercitationem impedit debitis velit nesciunt placeat tempore. Esse sit culpa ipsa quo iste quia non.",
+        "rating": 2.3,
+        "price": 8563,
+        "date": "2018-05-20 23:31:48",
+        "manufactory": {
+            "value": [
+                "lenovo",
+                "sony",
+                "dell"
+            ],
+            "displayValue": [
+                "Lenovo",
+                "Sony",
+                "Dell"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i5",
+                "core-i3",
+                "pen-v",
+                "pen-iv"
+            ],
+            "displayValue": [
+                "core i5",
+                "core i3",
+                "pen V",
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb"
+            ],
+            "displayValue": [
+                "16 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i22",
+        "name": "Ziemann-Lebsack",
+        "detail": "Et inventore aperiam quisquam placeat. Amet occaecati consequatur facilis et. Exercitationem rerum consequuntur doloremque dolore.",
+        "rating": 4.1,
+        "price": 7114,
+        "date": "2018-05-24 09:15:52",
+        "manufactory": {
+            "value": [
+                "acer",
+                "lenovo",
+                "dell"
+            ],
+            "displayValue": [
+                "Acer",
+                "Lenovo",
+                "Dell"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-v"
+            ],
+            "displayValue": [
+                "pen V"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb",
+                "64-gb",
+                "32-gb",
+                "16-gb"
+            ],
+            "displayValue": [
+                "4 GB",
+                "64 GB",
+                "32 GB",
+                "16 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb",
+                "100-gb"
+            ],
+            "displayValue": [
+                "1 TB",
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i23",
+        "name": "Friesen, Bernhard and Flatley",
+        "detail": "Dolor perferendis nemo aut similique nesciunt alias. Optio doloremque quod fuga. A qui dolores omnis aliquam rerum corrupti. Temporibus ea molestiae dolor maiores.",
+        "rating": 1.1,
+        "price": 2557,
+        "date": "2018-05-10 22:51:22",
+        "manufactory": {
+            "value": [
+                "sony",
+                "hp"
+            ],
+            "displayValue": [
+                "Sony",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iii",
+                "core-i3",
+                "core-i5",
+                "celeron"
+            ],
+            "displayValue": [
+                "pen III",
+                "core i3",
+                "core i5",
+                "celeron"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb",
+                "4-gb"
+            ],
+            "displayValue": [
+                "16 GB",
+                "4 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "100-gb",
+                "2-tb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "100 GB",
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i24",
+        "name": "Schaefer-Tremblay",
+        "detail": "Ipsam vel odit et eius ullam. Pariatur est in modi ratione similique repellat soluta quos. Qui nesciunt sapiente occaecati aspernatur aperiam. Quia odit eum facilis omnis.",
+        "rating": 0.4,
+        "price": 7660,
+        "date": "2018-07-01 23:16:45",
+        "manufactory": {
+            "value": [
+                "hp",
+                "samsung",
+                "toshiba"
+            ],
+            "displayValue": [
+                "HP",
+                "Samsung",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i3"
+            ],
+            "displayValue": [
+                "core i3"
+            ]
+        },
+        "ram": {
+            "value": [
+                "64-gb",
+                "4-gb",
+                "8-gb",
+                "6-gb"
+            ],
+            "displayValue": [
+                "64 GB",
+                "4 GB",
+                "8 GB",
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "500-gb",
+                "100-gb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "500 GB",
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i25",
+        "name": "Zulauf, Feil and Ruecker",
+        "detail": "Quasi unde vero deserunt amet neque hic animi libero. Dicta deleniti sint fugit illum quisquam.",
+        "rating": 1.3,
+        "price": 3707,
+        "date": "2018-06-24 06:26:17",
+        "manufactory": {
+            "value": [
+                "xiaomi",
+                "toshiba",
+                "asus",
+                "lenovo"
+            ],
+            "displayValue": [
+                "Xiaomi",
+                "Toshiba",
+                "Asus",
+                "Lenovo"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core",
+                "core-i3"
+            ],
+            "displayValue": [
+                "dual core",
+                "core i3"
+            ]
+        },
+        "ram": {
+            "value": [
+                "8-gb",
+                "16-gb"
+            ],
+            "displayValue": [
+                "8 GB",
+                "16 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i26",
+        "name": "Runolfsson-Schowalter",
+        "detail": "Sequi odit accusamus quis. Fugiat et dolor est laudantium aut maiores aut. Odio excepturi ipsam saepe sequi. Maxime sunt ipsa consequatur repellat voluptatum. Et aut dolor et ratione.",
+        "rating": 3.2,
+        "price": 8438,
+        "date": "2018-05-22 11:14:59",
+        "manufactory": {
+            "value": [
+                "asus",
+                "dell",
+                "xiaomi",
+                "acer"
+            ],
+            "displayValue": [
+                "Asus",
+                "Dell",
+                "Xiaomi",
+                "Acer"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7",
+                "arm"
+            ],
+            "displayValue": [
+                "core i7",
+                "arm"
+            ]
+        },
+        "ram": {
+            "value": [
+                "6-gb"
+            ],
+            "displayValue": [
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "100 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i27",
+        "name": "Corkery-Simonis",
+        "detail": "Est illum dolor quaerat aut et asperiores. Sequi ut ea ut omnis itaque perspiciatis qui dolor. Officiis vel ut magni.",
+        "rating": 4.1,
+        "price": 632,
+        "date": "2018-12-11 02:16:59",
+        "manufactory": {
+            "value": [
+                "hp",
+                "toshiba",
+                "dell",
+                "samsung"
+            ],
+            "displayValue": [
+                "HP",
+                "Toshiba",
+                "Dell",
+                "Samsung"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "arm",
+                "core-i5",
+                "pen-iv"
+            ],
+            "displayValue": [
+                "arm",
+                "core i5",
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb"
+            ],
+            "displayValue": [
+                "16 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "500-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "500 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i28",
+        "name": "Raynor-Wunsch",
+        "detail": "Eius ratione dolores laboriosam praesentium. Maiores maxime accusamus sapiente. Praesentium facilis earum aut alias inventore similique ducimus.",
+        "rating": 0.5,
+        "price": 8450,
+        "date": "2018-07-31 04:53:38",
+        "manufactory": {
+            "value": [
+                "samsung",
+                "xiaomi",
+                "sony",
+                "hp"
+            ],
+            "displayValue": [
+                "Samsung",
+                "Xiaomi",
+                "Sony",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "arm",
+                "core-i3",
+                "core-i7",
+                "celeron"
+            ],
+            "displayValue": [
+                "arm",
+                "core i3",
+                "core i7",
+                "celeron"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb"
+            ],
+            "displayValue": [
+                "16 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb"
+            ],
+            "displayValue": [
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i29",
+        "name": "West, Walker and Dickinson",
+        "detail": "Fugiat laboriosam ut beatae qui temporibus quo. Sed consequuntur qui adipisci officia corrupti. Recusandae ut et et occaecati et suscipit.",
+        "rating": 1.4,
+        "price": 1679,
+        "date": "2018-04-18 07:15:48",
+        "manufactory": {
+            "value": [
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-v",
+                "core-i7",
+                "core-i3",
+                "arm"
+            ],
+            "displayValue": [
+                "pen V",
+                "core i7",
+                "core i3",
+                "arm"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb"
+            ],
+            "displayValue": [
+                "16 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "2-tb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "2 TB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i30",
+        "name": "King and Sons",
+        "detail": "Aut sit cum incidunt impedit numquam sed reiciendis. Sed doloremque velit itaque consequatur dolores iusto. Fugiat quod illo aut in veritatis.",
+        "rating": 1.2,
+        "price": 1911,
+        "date": "2018-05-09 23:18:39",
+        "manufactory": {
+            "value": [
+                "lenovo"
+            ],
+            "displayValue": [
+                "Lenovo"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i5",
+                "pen-iii",
+                "arm",
+                "dual-core"
+            ],
+            "displayValue": [
+                "core i5",
+                "pen III",
+                "arm",
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "6-gb"
+            ],
+            "displayValue": [
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "100-gb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "100 GB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i31",
+        "name": "Lind, Mertz and Harber",
+        "detail": "Vel a ipsum ut dolor. Ut repellat dolore sed dignissimos esse. Provident doloribus quia minima sunt accusantium. Nostrum et dolorem nulla aliquam.",
+        "rating": 3.8,
+        "price": 5197,
+        "date": "2018-12-10 19:26:47",
+        "manufactory": {
+            "value": [
+                "xiaomi",
+                "lenovo",
+                "acer",
+                "toshiba"
+            ],
+            "displayValue": [
+                "Xiaomi",
+                "Lenovo",
+                "Acer",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i3",
+                "dual-core",
+                "arm",
+                "pen-v"
+            ],
+            "displayValue": [
+                "core i3",
+                "dual core",
+                "arm",
+                "pen V"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb",
+                "2-gb",
+                "32-gb",
+                "6-gb"
+            ],
+            "displayValue": [
+                "16 GB",
+                "2 GB",
+                "32 GB",
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb"
+            ],
+            "displayValue": [
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i32",
+        "name": "Lakin, Kemmer and Kuphal",
+        "detail": "Distinctio et nulla quibusdam est exercitationem ad omnis velit. Numquam qui est eius culpa tempora earum eius explicabo. Autem libero quo quia.",
+        "rating": 0.2,
+        "price": 8138,
+        "date": "2018-03-09 18:24:51",
+        "manufactory": {
+            "value": [
+                "sony",
+                "samsung",
+                "xiaomi",
+                "lenovo",
+                "toshiba"
+            ],
+            "displayValue": [
+                "Sony",
+                "Samsung",
+                "Xiaomi",
+                "Lenovo",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core",
+                "core-i5",
+                "core-i3",
+                "pen-iv",
+                "arm"
+            ],
+            "displayValue": [
+                "dual core",
+                "core i5",
+                "core i3",
+                "pen IV",
+                "arm"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "16 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "100-gb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i33",
+        "name": "Hagenes Ltd",
+        "detail": "Omnis iure distinctio qui cum et aut. Necessitatibus vel ipsam excepturi et. Ipsa quos est dignissimos in id quia facere.",
+        "rating": 1.4,
+        "price": 599,
+        "date": "2018-03-18 00:28:07",
+        "manufactory": {
+            "value": [
+                "samsung",
+                "lenovo",
+                "sony",
+                "dell",
+                "toshiba"
+            ],
+            "displayValue": [
+                "Samsung",
+                "Lenovo",
+                "Sony",
+                "Dell",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "celeron",
+                "core-i7",
+                "pen-iii",
+                "dual-core",
+                "core-i3"
+            ],
+            "displayValue": [
+                "celeron",
+                "core i7",
+                "pen III",
+                "dual core",
+                "core i3"
+            ]
+        },
+        "ram": {
+            "value": [
+                "64-gb"
+            ],
+            "displayValue": [
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "1-tb",
+                "500-gb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "1 TB",
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i34",
+        "name": "Ruecker, Green and Konopelski",
+        "detail": "Maxime blanditiis aut aut voluptas et ducimus consequatur. Asperiores odio praesentium doloremque quo. A aut sapiente odit officiis a et.",
+        "rating": 4.7,
+        "price": 9047,
+        "date": "2018-11-27 18:54:44",
+        "manufactory": {
+            "value": [
+                "samsung"
+            ],
+            "displayValue": [
+                "Samsung"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "arm",
+                "core-i7",
+                "pen-iii"
+            ],
+            "displayValue": [
+                "arm",
+                "core i7",
+                "pen III"
+            ]
+        },
+        "ram": {
+            "value": [
+                "64-gb"
+            ],
+            "displayValue": [
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i35",
+        "name": "Carroll Inc",
+        "detail": "Aut maxime at magnam sed tempora. Voluptas doloribus harum inventore voluptatibus. Harum quo recusandae laborum rem dicta sed et.",
+        "rating": 0.1,
+        "price": 5764,
+        "date": "2018-07-18 21:31:03",
+        "manufactory": {
+            "value": [
+                "asus",
+                "acer",
+                "dell"
+            ],
+            "displayValue": [
+                "Asus",
+                "Acer",
+                "Dell"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7",
+                "pen-iii",
+                "pen-v"
+            ],
+            "displayValue": [
+                "core i7",
+                "pen III",
+                "pen V"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb",
+                "4-gb"
+            ],
+            "displayValue": [
+                "16 GB",
+                "4 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i36",
+        "name": "Morar Group",
+        "detail": "Beatae nam consequuntur maiores aliquid perspiciatis. Ea enim facilis hic dolore id qui eaque. Id minima minima nam omnis doloribus.",
+        "rating": 1.7,
+        "price": 4677,
+        "date": "2018-11-17 22:06:39",
+        "manufactory": {
+            "value": [
+                "lenovo",
+                "sony",
+                "acer",
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Lenovo",
+                "Sony",
+                "Acer",
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i5",
+                "core-i7",
+                "celeron"
+            ],
+            "displayValue": [
+                "core i5",
+                "core i7",
+                "celeron"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "2 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb"
+            ],
+            "displayValue": [
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i37",
+        "name": "Pagac PLC",
+        "detail": "Qui id enim harum. In ratione qui deleniti est et velit perferendis. Necessitatibus voluptatibus tempora repudiandae vitae. Placeat et quidem suscipit nostrum quisquam.",
+        "rating": 2.9,
+        "price": 1537,
+        "date": "2018-04-01 01:29:39",
+        "manufactory": {
+            "value": [
+                "samsung",
+                "acer",
+                "xiaomi",
+                "dell"
+            ],
+            "displayValue": [
+                "Samsung",
+                "Acer",
+                "Xiaomi",
+                "Dell"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iii",
+                "core-i7",
+                "pen-iv",
+                "core-i3"
+            ],
+            "displayValue": [
+                "pen III",
+                "core i7",
+                "pen IV",
+                "core i3"
+            ]
+        },
+        "ram": {
+            "value": [
+                "6-gb",
+                "4-gb",
+                "16-gb",
+                "2-gb"
+            ],
+            "displayValue": [
+                "6 GB",
+                "4 GB",
+                "16 GB",
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "200-gb",
+                "500-gb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "200 GB",
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i38",
+        "name": "Sipes, Kshlerin and Pollich",
+        "detail": "Ad occaecati quae molestiae laboriosam nobis culpa. Rerum omnis ut provident reiciendis sequi enim. Minima ipsam culpa sint ut perferendis at. Aut ratione exercitationem quae amet ipsa sit a quaerat.",
+        "rating": 3.5,
+        "price": 2620,
+        "date": "2018-07-10 12:40:49",
+        "manufactory": {
+            "value": [
+                "acer",
+                "sony",
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Acer",
+                "Sony",
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i5",
+                "pen-iv"
+            ],
+            "displayValue": [
+                "core i5",
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb"
+            ],
+            "displayValue": [
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb"
+            ],
+            "displayValue": [
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i39",
+        "name": "McClure Ltd",
+        "detail": "Quas nobis est quia ut consequuntur molestiae ipsum quae. Ut aperiam quo id deleniti numquam dolorum. Qui iste corrupti sed illum voluptatem libero ut.",
+        "rating": 3.4,
+        "price": 3583,
+        "date": "2018-08-06 23:45:35",
+        "manufactory": {
+            "value": [
+                "xiaomi",
+                "asus",
+                "dell",
+                "sony",
+                "toshiba"
+            ],
+            "displayValue": [
+                "Xiaomi",
+                "Asus",
+                "Dell",
+                "Sony",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core",
+                "core-i5"
+            ],
+            "displayValue": [
+                "dual core",
+                "core i5"
+            ]
+        },
+        "ram": {
+            "value": [
+                "6-gb"
+            ],
+            "displayValue": [
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i40",
+        "name": "O'Kon, Bahringer and Beatty",
+        "detail": "Velit facilis voluptatem perferendis. Inventore nisi quod ullam deleniti. Facere itaque et voluptas quia laboriosam illo aspernatur optio.",
+        "rating": 0,
+        "price": 1375,
+        "date": "2018-04-01 05:13:52",
+        "manufactory": {
+            "value": [
+                "lenovo",
+                "xiaomi",
+                "toshiba",
+                "asus",
+                "sony"
+            ],
+            "displayValue": [
+                "Lenovo",
+                "Xiaomi",
+                "Toshiba",
+                "Asus",
+                "Sony"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i5",
+                "core-i7",
+                "celeron"
+            ],
+            "displayValue": [
+                "core i5",
+                "core i7",
+                "celeron"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb"
+            ],
+            "displayValue": [
+                "4 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb"
+            ],
+            "displayValue": [
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i41",
+        "name": "O'Connell LLC",
+        "detail": "Quia cupiditate dolore architecto ea aliquam hic. Nesciunt ut sit cumque magni illum ea voluptatem voluptates. Adipisci velit cupiditate dolor id ab.",
+        "rating": 4.8,
+        "price": 9270,
+        "date": "2018-09-25 06:07:37",
+        "manufactory": {
+            "value": [
+                "hp",
+                "samsung"
+            ],
+            "displayValue": [
+                "HP",
+                "Samsung"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "arm",
+                "pen-iii"
+            ],
+            "displayValue": [
+                "arm",
+                "pen III"
+            ]
+        },
+        "ram": {
+            "value": [
+                "6-gb",
+                "16-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "6 GB",
+                "16 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb"
+            ],
+            "displayValue": [
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i42",
+        "name": "Rosenbaum, Kertzmann and O'Reilly",
+        "detail": "Et consequatur aspernatur voluptatum delectus adipisci et. Molestias est blanditiis reprehenderit hic veniam nemo odio. Animi praesentium impedit repellendus eos quasi.",
+        "rating": 2,
+        "price": 6746,
+        "date": "2018-11-27 16:30:45",
+        "manufactory": {
+            "value": [
+                "dell",
+                "hp",
+                "lenovo"
+            ],
+            "displayValue": [
+                "Dell",
+                "HP",
+                "Lenovo"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7",
+                "pen-iv"
+            ],
+            "displayValue": [
+                "core i7",
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "8-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "8 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "2-tb",
+                "100-gb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "2 TB",
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i43",
+        "name": "Quitzon, Morar and Douglas",
+        "detail": "Rerum sequi quam aspernatur. Qui voluptate aut saepe corporis doloribus nulla. Odit delectus sapiente id architecto qui exercitationem sed.",
+        "rating": 1.1,
+        "price": 7938,
+        "date": "2018-11-08 03:31:14",
+        "manufactory": {
+            "value": [
+                "xiaomi",
+                "toshiba",
+                "asus",
+                "samsung",
+                "sony"
+            ],
+            "displayValue": [
+                "Xiaomi",
+                "Toshiba",
+                "Asus",
+                "Samsung",
+                "Sony"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7",
+                "celeron",
+                "pen-iv"
+            ],
+            "displayValue": [
+                "core i7",
+                "celeron",
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "8-gb",
+                "6-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "8 GB",
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "100 GB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i44",
+        "name": "Hansen, Walsh and Franecki",
+        "detail": "Sint ea velit vero ducimus exercitationem at. Voluptatibus deleniti non harum quis. Doloremque autem ullam architecto cum voluptates nemo iusto.",
+        "rating": 4.8,
+        "price": 6606,
+        "date": "2018-03-13 23:15:45",
+        "manufactory": {
+            "value": [
+                "asus",
+                "lenovo",
+                "sony"
+            ],
+            "displayValue": [
+                "Asus",
+                "Lenovo",
+                "Sony"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-v",
+                "celeron",
+                "core-i3",
+                "core-i5"
+            ],
+            "displayValue": [
+                "pen V",
+                "celeron",
+                "core i3",
+                "core i5"
+            ]
+        },
+        "ram": {
+            "value": [
+                "64-gb",
+                "32-gb",
+                "6-gb"
+            ],
+            "displayValue": [
+                "64 GB",
+                "32 GB",
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb"
+            ],
+            "displayValue": [
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i45",
+        "name": "Schuppe-Konopelski",
+        "detail": "Nihil sint rem soluta consequatur. At aut aliquam facere aut hic quia possimus.",
+        "rating": 4.5,
+        "price": 8660,
+        "date": "2018-09-12 05:12:41",
+        "manufactory": {
+            "value": [
+                "acer",
+                "lenovo",
+                "toshiba",
+                "sony",
+                "dell"
+            ],
+            "displayValue": [
+                "Acer",
+                "Lenovo",
+                "Toshiba",
+                "Sony",
+                "Dell"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "celeron",
+                "pen-iii"
+            ],
+            "displayValue": [
+                "celeron",
+                "pen III"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "4-gb",
+                "8-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "4 GB",
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb",
+                "2-tb"
+            ],
+            "displayValue": [
+                "1 TB",
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i46",
+        "name": "Hackett-Walsh",
+        "detail": "Nobis pariatur architecto voluptatum temporibus est ut. Et deserunt facere a voluptas. Ut eos dolorem nostrum impedit ut.",
+        "rating": 2.8,
+        "price": 9561,
+        "date": "2018-11-20 14:09:51",
+        "manufactory": {
+            "value": [
+                "asus",
+                "samsung"
+            ],
+            "displayValue": [
+                "Asus",
+                "Samsung"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core"
+            ],
+            "displayValue": [
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "8-gb",
+                "6-gb",
+                "4-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "8 GB",
+                "6 GB",
+                "4 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb"
+            ],
+            "displayValue": [
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i47",
+        "name": "Lehner-Monahan",
+        "detail": "Officia deserunt ut aliquam quia at saepe enim. Temporibus aut necessitatibus laudantium. Rem asperiores cumque maxime. Ducimus quis maiores blanditiis aut assumenda iste molestiae.",
+        "rating": 1.2,
+        "price": 9191,
+        "date": "2018-07-30 00:31:44",
+        "manufactory": {
+            "value": [
+                "dell",
+                "toshiba",
+                "acer",
+                "lenovo"
+            ],
+            "displayValue": [
+                "Dell",
+                "Toshiba",
+                "Acer",
+                "Lenovo"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "arm",
+                "core-i7"
+            ],
+            "displayValue": [
+                "arm",
+                "core i7"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb",
+                "8-gb",
+                "64-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "2 GB",
+                "8 GB",
+                "64 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb",
+                "500-gb"
+            ],
+            "displayValue": [
+                "1 TB",
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i48",
+        "name": "Klocko, Klocko and Schiller",
+        "detail": "Consequatur qui magnam dolor iusto unde itaque laborum. Voluptatem perspiciatis ex rerum cum. Temporibus sapiente facilis id qui at repellendus. Nam et dolores eaque eos ipsum sit.",
+        "rating": 2.5,
+        "price": 7803,
+        "date": "2018-05-02 02:07:57",
+        "manufactory": {
+            "value": [
+                "toshiba",
+                "xiaomi",
+                "asus"
+            ],
+            "displayValue": [
+                "Toshiba",
+                "Xiaomi",
+                "Asus"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7"
+            ],
+            "displayValue": [
+                "core i7"
+            ]
+        },
+        "ram": {
+            "value": [
+                "8-gb"
+            ],
+            "displayValue": [
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb"
+            ],
+            "displayValue": [
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i49",
+        "name": "Moore PLC",
+        "detail": "Corporis debitis laboriosam dolore nisi. Nemo beatae laudantium eos aut debitis ipsam recusandae. Aut rem omnis qui suscipit ex.",
+        "rating": 0.9,
+        "price": 3576,
+        "date": "2018-08-13 02:33:43",
+        "manufactory": {
+            "value": [
+                "hp"
+            ],
+            "displayValue": [
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i3"
+            ],
+            "displayValue": [
+                "core i3"
+            ]
+        },
+        "ram": {
+            "value": [
+                "64-gb",
+                "6-gb",
+                "16-gb",
+                "2-gb"
+            ],
+            "displayValue": [
+                "64 GB",
+                "6 GB",
+                "16 GB",
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "500-gb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i50",
+        "name": "Harber Ltd",
+        "detail": "Eos dolorem fugiat ea. Repellat voluptas ipsam aut reiciendis. Eveniet est autem ut dicta. Non dignissimos hic sunt facilis.",
+        "rating": 4.1,
+        "price": 941,
+        "date": "2018-06-12 17:44:26",
+        "manufactory": {
+            "value": [
+                "asus"
+            ],
+            "displayValue": [
+                "Asus"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-v",
+                "core-i3",
+                "celeron",
+                "arm",
+                "pen-iii"
+            ],
+            "displayValue": [
+                "pen V",
+                "core i3",
+                "celeron",
+                "arm",
+                "pen III"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb"
+            ],
+            "displayValue": [
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "1-tb",
+                "2-tb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "1 TB",
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i51",
+        "name": "McDermott, Gerhold and Shanahan",
+        "detail": "Porro eum aut ipsam alias doloribus rerum dolorem. Animi maiores nihil nisi quis. Quisquam necessitatibus corrupti libero magnam minus totam. Labore non nostrum quos illo praesentium non.",
+        "rating": 3.4,
+        "price": 5584,
+        "date": "2019-02-04 13:00:57",
+        "manufactory": {
+            "value": [
+                "samsung",
+                "dell",
+                "toshiba",
+                "sony",
+                "hp"
+            ],
+            "displayValue": [
+                "Samsung",
+                "Dell",
+                "Toshiba",
+                "Sony",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7",
+                "pen-iii"
+            ],
+            "displayValue": [
+                "core i7",
+                "pen III"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "4-gb",
+                "2-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "4 GB",
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "100-gb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i52",
+        "name": "Wisozk-Parisian",
+        "detail": "Porro adipisci quia iure soluta dolores. Dolorem aperiam totam temporibus nostrum et et ratione ex. Voluptate aut quo voluptatem corporis quis aut laudantium. Provident omnis cumque dolore rerum ex.",
+        "rating": 3.3,
+        "price": 3277,
+        "date": "2018-11-27 12:43:41",
+        "manufactory": {
+            "value": [
+                "samsung",
+                "acer",
+                "lenovo",
+                "dell"
+            ],
+            "displayValue": [
+                "Samsung",
+                "Acer",
+                "Lenovo",
+                "Dell"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iv",
+                "core-i3",
+                "pen-v"
+            ],
+            "displayValue": [
+                "pen IV",
+                "core i3",
+                "pen V"
+            ]
+        },
+        "ram": {
+            "value": [
+                "64-gb"
+            ],
+            "displayValue": [
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "200-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "200 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i53",
+        "name": "Dibbert-Hirthe",
+        "detail": "Ut fuga quisquam sed natus. Autem et labore eum tenetur.",
+        "rating": 1.7,
+        "price": 2400,
+        "date": "2018-04-05 17:57:17",
+        "manufactory": {
+            "value": [
+                "asus",
+                "acer",
+                "toshiba",
+                "samsung"
+            ],
+            "displayValue": [
+                "Asus",
+                "Acer",
+                "Toshiba",
+                "Samsung"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iv",
+                "celeron"
+            ],
+            "displayValue": [
+                "pen IV",
+                "celeron"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb",
+                "6-gb"
+            ],
+            "displayValue": [
+                "4 GB",
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "500-gb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i54",
+        "name": "Padberg, Ebert and Kuhlman",
+        "detail": "Eum sunt illo aut ut sed ut. Laudantium cupiditate ut voluptatem aspernatur facilis. Maiores error nisi nihil sequi maxime aliquid. Amet quae et nemo et.",
+        "rating": 4.4,
+        "price": 8649,
+        "date": "2019-01-07 07:44:58",
+        "manufactory": {
+            "value": [
+                "dell",
+                "asus",
+                "toshiba",
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Dell",
+                "Asus",
+                "Toshiba",
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iv"
+            ],
+            "displayValue": [
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb",
+                "6-gb",
+                "64-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "2 GB",
+                "6 GB",
+                "64 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i55",
+        "name": "Friesen, Mayert and Reynolds",
+        "detail": "Et possimus ut beatae voluptas voluptas voluptatibus. Alias voluptatibus illum vel.",
+        "rating": 0.5,
+        "price": 6636,
+        "date": "2018-11-24 07:25:43",
+        "manufactory": {
+            "value": [
+                "dell",
+                "hp"
+            ],
+            "displayValue": [
+                "Dell",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iv",
+                "arm",
+                "core-i7",
+                "dual-core",
+                "pen-iii"
+            ],
+            "displayValue": [
+                "pen IV",
+                "arm",
+                "core i7",
+                "dual core",
+                "pen III"
+            ]
+        },
+        "ram": {
+            "value": [
+                "6-gb",
+                "32-gb",
+                "8-gb"
+            ],
+            "displayValue": [
+                "6 GB",
+                "32 GB",
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb"
+            ],
+            "displayValue": [
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i56",
+        "name": "Lindgren LLC",
+        "detail": "Porro facilis tempore dolorum quas. Incidunt voluptatum quam autem omnis. Quia mollitia est delectus voluptatibus.",
+        "rating": 0.7,
+        "price": 8473,
+        "date": "2018-10-16 01:08:53",
+        "manufactory": {
+            "value": [
+                "lenovo",
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Lenovo",
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7",
+                "celeron",
+                "arm",
+                "dual-core"
+            ],
+            "displayValue": [
+                "core i7",
+                "celeron",
+                "arm",
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "2-gb",
+                "16-gb",
+                "64-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "2 GB",
+                "16 GB",
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "500-gb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i57",
+        "name": "Heaney, Hoeger and Conroy",
+        "detail": "Qui magni et quia. Consectetur similique possimus et sequi sit omnis. Eum ut magnam quia ipsum.",
+        "rating": 0.3,
+        "price": 8287,
+        "date": "2018-07-02 06:58:34",
+        "manufactory": {
+            "value": [
+                "samsung"
+            ],
+            "displayValue": [
+                "Samsung"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7",
+                "dual-core",
+                "core-i5"
+            ],
+            "displayValue": [
+                "core i7",
+                "dual core",
+                "core i5"
+            ]
+        },
+        "ram": {
+            "value": [
+                "8-gb",
+                "16-gb",
+                "2-gb"
+            ],
+            "displayValue": [
+                "8 GB",
+                "16 GB",
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb"
+            ],
+            "displayValue": [
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i58",
+        "name": "Donnelly PLC",
+        "detail": "Itaque illo atque qui autem. Qui quod eligendi omnis dolorem illum. Saepe voluptatem aut maiores. Nihil occaecati ea minima quod quia.",
+        "rating": 2.9,
+        "price": 4862,
+        "date": "2018-11-21 06:18:30",
+        "manufactory": {
+            "value": [
+                "xiaomi",
+                "samsung",
+                "hp",
+                "toshiba"
+            ],
+            "displayValue": [
+                "Xiaomi",
+                "Samsung",
+                "HP",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iv",
+                "arm"
+            ],
+            "displayValue": [
+                "pen IV",
+                "arm"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb",
+                "2-gb"
+            ],
+            "displayValue": [
+                "4 GB",
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb"
+            ],
+            "displayValue": [
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i59",
+        "name": "Kohler-Haag",
+        "detail": "Ipsa mollitia sequi vero itaque et ut iure. Et sunt impedit sint temporibus. Illum et cupiditate qui delectus praesentium voluptatem.",
+        "rating": 2.5,
+        "price": 7533,
+        "date": "2018-06-06 22:29:07",
+        "manufactory": {
+            "value": [
+                "acer",
+                "xiaomi",
+                "dell",
+                "asus",
+                "sony"
+            ],
+            "displayValue": [
+                "Acer",
+                "Xiaomi",
+                "Dell",
+                "Asus",
+                "Sony"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i3",
+                "pen-iv"
+            ],
+            "displayValue": [
+                "core i3",
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb",
+                "4-gb",
+                "8-gb"
+            ],
+            "displayValue": [
+                "16 GB",
+                "4 GB",
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb"
+            ],
+            "displayValue": [
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i60",
+        "name": "Volkman Inc",
+        "detail": "Labore fugiat accusamus omnis sed. Voluptas et nam fuga nihil saepe a commodi. Natus consequuntur qui et optio.",
+        "rating": 2.9,
+        "price": 6120,
+        "date": "2019-01-03 21:01:32",
+        "manufactory": {
+            "value": [
+                "acer",
+                "toshiba",
+                "asus",
+                "sony",
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Acer",
+                "Toshiba",
+                "Asus",
+                "Sony",
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i5",
+                "pen-iv"
+            ],
+            "displayValue": [
+                "core i5",
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb",
+                "64-gb"
+            ],
+            "displayValue": [
+                "4 GB",
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb"
+            ],
+            "displayValue": [
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i61",
+        "name": "Steuber, Hettinger and Lakin",
+        "detail": "Maiores aperiam est et non officiis. Aut veritatis optio maiores vero dolor omnis repudiandae. Quo minima hic eum et molestiae delectus. Distinctio eum expedita corporis quos voluptatem.",
+        "rating": 2.9,
+        "price": 1457,
+        "date": "2018-11-05 15:22:13",
+        "manufactory": {
+            "value": [
+                "dell",
+                "hp",
+                "toshiba"
+            ],
+            "displayValue": [
+                "Dell",
+                "HP",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "celeron",
+                "pen-v",
+                "core-i7"
+            ],
+            "displayValue": [
+                "celeron",
+                "pen V",
+                "core i7"
+            ]
+        },
+        "ram": {
+            "value": [
+                "6-gb",
+                "4-gb",
+                "16-gb",
+                "64-gb"
+            ],
+            "displayValue": [
+                "6 GB",
+                "4 GB",
+                "16 GB",
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "100 GB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i62",
+        "name": "Little Ltd",
+        "detail": "Iure voluptas laborum sed possimus et qui officiis. Qui assumenda sunt labore iste. Error quia voluptatum aut quaerat soluta.",
+        "rating": 3.7,
+        "price": 5276,
+        "date": "2018-12-05 09:35:18",
+        "manufactory": {
+            "value": [
+                "lenovo",
+                "asus",
+                "hp"
+            ],
+            "displayValue": [
+                "Lenovo",
+                "Asus",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "arm",
+                "core-i7"
+            ],
+            "displayValue": [
+                "arm",
+                "core i7"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb",
+                "8-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "2 GB",
+                "8 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb"
+            ],
+            "displayValue": [
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i63",
+        "name": "Treutel-Bogan",
+        "detail": "Eum et commodi quibusdam error voluptate modi. Et quam est occaecati occaecati dicta. Eum earum libero aut pariatur nesciunt cupiditate. Vel veniam nobis dolorem dolor.",
+        "rating": 1.8,
+        "price": 3921,
+        "date": "2018-10-07 19:00:24",
+        "manufactory": {
+            "value": [
+                "lenovo",
+                "dell",
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Lenovo",
+                "Dell",
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core",
+                "pen-v",
+                "pen-iii",
+                "pen-iv"
+            ],
+            "displayValue": [
+                "dual core",
+                "pen V",
+                "pen III",
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb"
+            ],
+            "displayValue": [
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb"
+            ],
+            "displayValue": [
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i64",
+        "name": "Kub, Schmidt and Carter",
+        "detail": "Recusandae quo sapiente vero. Est cupiditate eius est ipsum consectetur aut ut. Facere magnam optio dolor consectetur consectetur delectus. Vel qui et excepturi at consequatur labore accusamus.",
+        "rating": 3.6,
+        "price": 4904,
+        "date": "2018-07-31 16:51:23",
+        "manufactory": {
+            "value": [
+                "toshiba",
+                "acer",
+                "lenovo",
+                "sony"
+            ],
+            "displayValue": [
+                "Toshiba",
+                "Acer",
+                "Lenovo",
+                "Sony"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-v",
+                "arm"
+            ],
+            "displayValue": [
+                "pen V",
+                "arm"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "16-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "16 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb"
+            ],
+            "displayValue": [
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i65",
+        "name": "Mann, Blick and Murray",
+        "detail": "Autem et cum sed sed nisi. Quo nihil quia rem accusamus. Voluptatem enim occaecati nobis perferendis et.",
+        "rating": 4.1,
+        "price": 6468,
+        "date": "2018-10-05 11:01:52",
+        "manufactory": {
+            "value": [
+                "acer",
+                "hp",
+                "sony"
+            ],
+            "displayValue": [
+                "Acer",
+                "HP",
+                "Sony"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "celeron",
+                "core-i7",
+                "pen-iv",
+                "core-i5"
+            ],
+            "displayValue": [
+                "celeron",
+                "core i7",
+                "pen IV",
+                "core i5"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb"
+            ],
+            "displayValue": [
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb"
+            ],
+            "displayValue": [
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i66",
+        "name": "Klocko-Quigley",
+        "detail": "Soluta quas ipsa aut beatae. Soluta corrupti ex nostrum veritatis. Magnam molestiae vitae et qui.",
+        "rating": 4.9,
+        "price": 7575,
+        "date": "2018-07-17 10:56:07",
+        "manufactory": {
+            "value": [
+                "hp",
+                "dell"
+            ],
+            "displayValue": [
+                "HP",
+                "Dell"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core",
+                "pen-iii",
+                "pen-iv",
+                "core-i3"
+            ],
+            "displayValue": [
+                "dual core",
+                "pen III",
+                "pen IV",
+                "core i3"
+            ]
+        },
+        "ram": {
+            "value": [
+                "8-gb"
+            ],
+            "displayValue": [
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "500-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "500 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i67",
+        "name": "Schumm-Purdy",
+        "detail": "Aliquam ea officia aut amet. Vel ut voluptatum possimus rem et vel molestiae vel.",
+        "rating": 1,
+        "price": 3247,
+        "date": "2018-04-10 16:15:59",
+        "manufactory": {
+            "value": [
+                "dell",
+                "sony",
+                "hp",
+                "asus",
+                "toshiba"
+            ],
+            "displayValue": [
+                "Dell",
+                "Sony",
+                "HP",
+                "Asus",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "celeron",
+                "core-i5",
+                "pen-v",
+                "core-i3",
+                "dual-core"
+            ],
+            "displayValue": [
+                "celeron",
+                "core i5",
+                "pen V",
+                "core i3",
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "4-gb",
+                "16-gb",
+                "6-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "4 GB",
+                "16 GB",
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb",
+                "500-gb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "100 GB",
+                "500 GB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i68",
+        "name": "Metz, Swift and Casper",
+        "detail": "Quos incidunt excepturi eos qui. Deleniti accusamus consequatur sequi illum. Natus deleniti est aut dolore commodi a ab.",
+        "rating": 3.2,
+        "price": 4130,
+        "date": "2019-01-24 06:10:21",
+        "manufactory": {
+            "value": [
+                "samsung",
+                "toshiba"
+            ],
+            "displayValue": [
+                "Samsung",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7",
+                "arm",
+                "core-i3",
+                "core-i5"
+            ],
+            "displayValue": [
+                "core i7",
+                "arm",
+                "core i3",
+                "core i5"
+            ]
+        },
+        "ram": {
+            "value": [
+                "6-gb",
+                "64-gb",
+                "16-gb",
+                "8-gb"
+            ],
+            "displayValue": [
+                "6 GB",
+                "64 GB",
+                "16 GB",
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i69",
+        "name": "Bartoletti LLC",
+        "detail": "Vel architecto eveniet veritatis. Vel omnis quia quis eligendi vel et nulla.",
+        "rating": 2.4,
+        "price": 8136,
+        "date": "2018-09-17 23:44:53",
+        "manufactory": {
+            "value": [
+                "hp",
+                "sony",
+                "xiaomi",
+                "lenovo",
+                "toshiba"
+            ],
+            "displayValue": [
+                "HP",
+                "Sony",
+                "Xiaomi",
+                "Lenovo",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core"
+            ],
+            "displayValue": [
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb"
+            ],
+            "displayValue": [
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "200-gb",
+                "100-gb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "200 GB",
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i70",
+        "name": "Adams LLC",
+        "detail": "Enim praesentium rerum nam consequatur iste. Laboriosam maiores dolor aut voluptatem. Vel officiis atque exercitationem facilis et. Qui voluptatibus voluptates iste rerum qui excepturi.",
+        "rating": 0.5,
+        "price": 5948,
+        "date": "2018-11-16 21:21:56",
+        "manufactory": {
+            "value": [
+                "hp",
+                "toshiba"
+            ],
+            "displayValue": [
+                "HP",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-v",
+                "arm"
+            ],
+            "displayValue": [
+                "pen V",
+                "arm"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb",
+                "64-gb",
+                "6-gb"
+            ],
+            "displayValue": [
+                "4 GB",
+                "64 GB",
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "2-tb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i71",
+        "name": "Grimes Inc",
+        "detail": "Accusamus labore aspernatur aspernatur. Eveniet cum magni tenetur a et. Laudantium est blanditiis reiciendis aliquam qui sed. Esse dolor accusantium adipisci impedit nihil.",
+        "rating": 3.1,
+        "price": 9899,
+        "date": "2018-07-13 17:19:00",
+        "manufactory": {
+            "value": [
+                "xiaomi",
+                "samsung",
+                "toshiba",
+                "dell",
+                "sony"
+            ],
+            "displayValue": [
+                "Xiaomi",
+                "Samsung",
+                "Toshiba",
+                "Dell",
+                "Sony"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core",
+                "pen-iii"
+            ],
+            "displayValue": [
+                "dual core",
+                "pen III"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb",
+                "6-gb"
+            ],
+            "displayValue": [
+                "16 GB",
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb"
+            ],
+            "displayValue": [
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i72",
+        "name": "Marks-Cronin",
+        "detail": "Voluptas eaque maxime perferendis placeat molestias. Amet molestias id itaque voluptates sunt. Qui sit et rerum voluptas. Ipsa cumque nostrum amet.",
+        "rating": 2,
+        "price": 3804,
+        "date": "2018-07-20 22:05:57",
+        "manufactory": {
+            "value": [
+                "sony",
+                "asus",
+                "hp",
+                "lenovo",
+                "toshiba"
+            ],
+            "displayValue": [
+                "Sony",
+                "Asus",
+                "HP",
+                "Lenovo",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iii",
+                "core-i7"
+            ],
+            "displayValue": [
+                "pen III",
+                "core i7"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "4 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i73",
+        "name": "Torp-Johns",
+        "detail": "Provident sit et eveniet soluta expedita velit sunt. Provident esse autem ut beatae. Non neque eveniet qui qui a qui itaque. Quod suscipit facilis tenetur minus dolorem. Ducimus accusamus sit et est.",
+        "rating": 2.4,
+        "price": 8199,
+        "date": "2018-12-21 00:35:10",
+        "manufactory": {
+            "value": [
+                "sony"
+            ],
+            "displayValue": [
+                "Sony"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iii",
+                "core-i5",
+                "core-i3",
+                "pen-v"
+            ],
+            "displayValue": [
+                "pen III",
+                "core i5",
+                "core i3",
+                "pen V"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb"
+            ],
+            "displayValue": [
+                "4 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb"
+            ],
+            "displayValue": [
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i74",
+        "name": "Graham-Swaniawski",
+        "detail": "Tempore itaque unde harum fugit maiores et. Laudantium eaque ad voluptate iure quia qui et fugit. Officia quia aliquid qui omnis consequuntur.",
+        "rating": 0.5,
+        "price": 1140,
+        "date": "2018-04-19 23:14:39",
+        "manufactory": {
+            "value": [
+                "acer",
+                "toshiba",
+                "lenovo",
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Acer",
+                "Toshiba",
+                "Lenovo",
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iii",
+                "core-i3",
+                "arm",
+                "pen-iv",
+                "dual-core"
+            ],
+            "displayValue": [
+                "pen III",
+                "core i3",
+                "arm",
+                "pen IV",
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "6-gb"
+            ],
+            "displayValue": [
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb",
+                "2-tb"
+            ],
+            "displayValue": [
+                "100 GB",
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i75",
+        "name": "Stanton Inc",
+        "detail": "Veritatis adipisci natus culpa enim. Ab facilis et voluptas assumenda voluptatibus ut atque temporibus. Voluptas voluptate at repellat.",
+        "rating": 0.9,
+        "price": 6590,
+        "date": "2018-12-26 12:01:35",
+        "manufactory": {
+            "value": [
+                "acer",
+                "sony",
+                "toshiba",
+                "xiaomi",
+                "samsung"
+            ],
+            "displayValue": [
+                "Acer",
+                "Sony",
+                "Toshiba",
+                "Xiaomi",
+                "Samsung"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7"
+            ],
+            "displayValue": [
+                "core i7"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb",
+                "32-gb",
+                "16-gb",
+                "6-gb"
+            ],
+            "displayValue": [
+                "2 GB",
+                "32 GB",
+                "16 GB",
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "500-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "500 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i76",
+        "name": "Lueilwitz PLC",
+        "detail": "Accusantium qui commodi dolorum sit minima voluptatum eveniet totam. Quod enim provident et delectus autem.",
+        "rating": 4.8,
+        "price": 6904,
+        "date": "2019-03-02 02:19:38",
+        "manufactory": {
+            "value": [
+                "toshiba",
+                "sony",
+                "dell",
+                "hp"
+            ],
+            "displayValue": [
+                "Toshiba",
+                "Sony",
+                "Dell",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core"
+            ],
+            "displayValue": [
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "8-gb",
+                "2-gb",
+                "6-gb",
+                "64-gb"
+            ],
+            "displayValue": [
+                "8 GB",
+                "2 GB",
+                "6 GB",
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb"
+            ],
+            "displayValue": [
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i77",
+        "name": "Ryan, Johnston and Goodwin",
+        "detail": "Blanditiis quas sunt ea eos repellendus sapiente ullam aut. Laboriosam eligendi assumenda corrupti. Voluptates nihil animi nam sunt rerum quia voluptates neque. Quasi qui laudantium qui in quod.",
+        "rating": 1.2,
+        "price": 3984,
+        "date": "2018-04-08 04:12:29",
+        "manufactory": {
+            "value": [
+                "samsung",
+                "hp"
+            ],
+            "displayValue": [
+                "Samsung",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "celeron",
+                "core-i5",
+                "core-i7",
+                "core-i3"
+            ],
+            "displayValue": [
+                "celeron",
+                "core i5",
+                "core i7",
+                "core i3"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb",
+                "64-gb",
+                "16-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "2 GB",
+                "64 GB",
+                "16 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "1-tb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "1 TB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i78",
+        "name": "Romaguera, Roob and Kassulke",
+        "detail": "Voluptas aut veniam ipsam rerum nobis. Et hic voluptatem dolore voluptas sint quia maxime. Ex earum velit corporis sed et non voluptatem. Nesciunt non fugiat et ipsum eos molestias in.",
+        "rating": 2,
+        "price": 8404,
+        "date": "2018-07-10 10:02:19",
+        "manufactory": {
+            "value": [
+                "sony"
+            ],
+            "displayValue": [
+                "Sony"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-v"
+            ],
+            "displayValue": [
+                "pen V"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb"
+            ],
+            "displayValue": [
+                "16 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "2-tb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "2 TB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i79",
+        "name": "Kling, Green and Fritsch",
+        "detail": "Tenetur voluptatem et eveniet repellendus et et blanditiis praesentium. Quisquam hic id deleniti sequi dolor. Aut sit reiciendis vitae neque. Enim deserunt magni quam veritatis rerum ducimus ut.",
+        "rating": 4.6,
+        "price": 3227,
+        "date": "2018-05-15 16:00:02",
+        "manufactory": {
+            "value": [
+                "xiaomi",
+                "hp",
+                "asus"
+            ],
+            "displayValue": [
+                "Xiaomi",
+                "HP",
+                "Asus"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iv",
+                "core-i7",
+                "core-i3",
+                "pen-v"
+            ],
+            "displayValue": [
+                "pen IV",
+                "core i7",
+                "core i3",
+                "pen V"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "2-gb",
+                "8-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "2 GB",
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb",
+                "2-tb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "100 GB",
+                "2 TB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i80",
+        "name": "Rice-Hagenes",
+        "detail": "Deserunt dicta consectetur sunt doloribus quibusdam voluptatem modi. Aliquid qui eos ut quidem nulla omnis. Praesentium quis repellat quaerat voluptatem voluptas.",
+        "rating": 1.1,
+        "price": 8221,
+        "date": "2018-05-18 00:07:55",
+        "manufactory": {
+            "value": [
+                "acer",
+                "samsung",
+                "dell"
+            ],
+            "displayValue": [
+                "Acer",
+                "Samsung",
+                "Dell"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "arm",
+                "celeron",
+                "core-i5",
+                "dual-core"
+            ],
+            "displayValue": [
+                "arm",
+                "celeron",
+                "core i5",
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "2-gb",
+                "64-gb",
+                "16-gb"
+            ],
+            "displayValue": [
+                "2 GB",
+                "64 GB",
+                "16 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb"
+            ],
+            "displayValue": [
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i81",
+        "name": "Eichmann-Spencer",
+        "detail": "Repellat deserunt ut rerum sunt et. Deleniti est facilis fugiat molestias. Necessitatibus consequatur nulla et omnis praesentium.",
+        "rating": 4.1,
+        "price": 5682,
+        "date": "2018-07-31 23:42:57",
+        "manufactory": {
+            "value": [
+                "xiaomi",
+                "dell",
+                "hp",
+                "toshiba"
+            ],
+            "displayValue": [
+                "Xiaomi",
+                "Dell",
+                "HP",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iv",
+                "core-i5",
+                "dual-core"
+            ],
+            "displayValue": [
+                "pen IV",
+                "core i5",
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb"
+            ],
+            "displayValue": [
+                "16 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb"
+            ],
+            "displayValue": [
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i82",
+        "name": "Lubowitz, Fay and Schneider",
+        "detail": "Illo qui et vitae consequatur. Ea voluptas vero debitis voluptatem quo vel quis. Ad aut in quis dignissimos. Porro voluptatibus beatae facilis.",
+        "rating": 3.5,
+        "price": 2497,
+        "date": "2018-09-08 11:00:55",
+        "manufactory": {
+            "value": [
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iii",
+                "pen-v"
+            ],
+            "displayValue": [
+                "pen III",
+                "pen V"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb"
+            ],
+            "displayValue": [
+                "4 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "100-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "100 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i83",
+        "name": "Kertzmann Inc",
+        "detail": "Perspiciatis ea odio ut architecto natus et. Dolores tempora aliquid praesentium ut voluptate aspernatur blanditiis.",
+        "rating": 2.3,
+        "price": 6145,
+        "date": "2018-09-14 08:34:47",
+        "manufactory": {
+            "value": [
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "arm"
+            ],
+            "displayValue": [
+                "arm"
+            ]
+        },
+        "ram": {
+            "value": [
+                "64-gb"
+            ],
+            "displayValue": [
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb",
+                "500-gb",
+                "2-tb"
+            ],
+            "displayValue": [
+                "1 TB",
+                "500 GB",
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i84",
+        "name": "Kirlin, Volkman and Turcotte",
+        "detail": "Voluptatem ipsa rerum sed quo nesciunt aliquam voluptatem. Quia aut quis earum id natus. Neque in aut voluptatem nam sit officiis. Esse esse dolorum qui.",
+        "rating": 0.7,
+        "price": 2872,
+        "date": "2018-08-26 04:23:14",
+        "manufactory": {
+            "value": [
+                "toshiba",
+                "hp",
+                "asus",
+                "xiaomi"
+            ],
+            "displayValue": [
+                "Toshiba",
+                "HP",
+                "Asus",
+                "Xiaomi"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "arm",
+                "core-i5",
+                "pen-iv",
+                "core-i7"
+            ],
+            "displayValue": [
+                "arm",
+                "core i5",
+                "pen IV",
+                "core i7"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb",
+                "6-gb",
+                "8-gb"
+            ],
+            "displayValue": [
+                "16 GB",
+                "6 GB",
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "100-gb",
+                "500-gb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "100 GB",
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i85",
+        "name": "Conroy, Windler and Wolff",
+        "detail": "Necessitatibus maiores ex harum occaecati ea corrupti. Ipsa nemo ut enim ut odio. Aut rerum sint saepe. Dolorem magnam neque incidunt nostrum placeat amet occaecati non.",
+        "rating": 3,
+        "price": 7072,
+        "date": "2018-06-19 06:09:03",
+        "manufactory": {
+            "value": [
+                "hp",
+                "xiaomi",
+                "asus"
+            ],
+            "displayValue": [
+                "HP",
+                "Xiaomi",
+                "Asus"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-iv"
+            ],
+            "displayValue": [
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "8-gb",
+                "16-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "8 GB",
+                "16 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb"
+            ],
+            "displayValue": [
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i86",
+        "name": "Mitchell PLC",
+        "detail": "Quia culpa ipsa porro eligendi molestiae eius voluptas consequatur. Voluptas ut enim voluptas animi labore a cupiditate. Qui fugiat et est voluptatibus magni.",
+        "rating": 3.1,
+        "price": 1335,
+        "date": "2018-07-18 04:57:56",
+        "manufactory": {
+            "value": [
+                "dell",
+                "asus",
+                "xiaomi",
+                "lenovo"
+            ],
+            "displayValue": [
+                "Dell",
+                "Asus",
+                "Xiaomi",
+                "Lenovo"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i3",
+                "pen-v"
+            ],
+            "displayValue": [
+                "core i3",
+                "pen V"
+            ]
+        },
+        "ram": {
+            "value": [
+                "8-gb",
+                "4-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "8 GB",
+                "4 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i87",
+        "name": "Tromp-Rempel",
+        "detail": "Vel numquam earum quam dolorem sint et. Laboriosam quia sequi a quos. Non nobis et et adipisci. Dignissimos sunt expedita inventore rem laudantium delectus. Earum fugiat asperiores vel sint.",
+        "rating": 1.7,
+        "price": 4121,
+        "date": "2018-09-07 12:43:15",
+        "manufactory": {
+            "value": [
+                "asus"
+            ],
+            "displayValue": [
+                "Asus"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "celeron",
+                "dual-core"
+            ],
+            "displayValue": [
+                "celeron",
+                "dual core"
+            ]
+        },
+        "ram": {
+            "value": [
+                "6-gb"
+            ],
+            "displayValue": [
+                "6 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb"
+            ],
+            "displayValue": [
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i88",
+        "name": "Jast, Bernier and Mills",
+        "detail": "Ea cumque qui ipsam ea officia eius. Dolores quasi qui nostrum harum ex exercitationem magnam. Eligendi magnam impedit quas totam est reprehenderit.",
+        "rating": 3.1,
+        "price": 4418,
+        "date": "2018-04-14 02:32:12",
+        "manufactory": {
+            "value": [
+                "acer",
+                "dell",
+                "lenovo",
+                "samsung",
+                "hp"
+            ],
+            "displayValue": [
+                "Acer",
+                "Dell",
+                "Lenovo",
+                "Samsung",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i7"
+            ],
+            "displayValue": [
+                "core i7"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb",
+                "6-gb",
+                "2-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "4 GB",
+                "6 GB",
+                "2 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb"
+            ],
+            "displayValue": [
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i89",
+        "name": "Smith LLC",
+        "detail": "Ut fugiat dolores temporibus nihil molestiae sed et eos. Dignissimos dicta qui nam saepe ipsum debitis quod laudantium. Asperiores quas at voluptatem. In rerum tenetur nostrum voluptatem.",
+        "rating": 3.2,
+        "price": 8830,
+        "date": "2018-06-14 10:39:53",
+        "manufactory": {
+            "value": [
+                "samsung",
+                "toshiba",
+                "xiaomi",
+                "hp",
+                "acer"
+            ],
+            "displayValue": [
+                "Samsung",
+                "Toshiba",
+                "Xiaomi",
+                "HP",
+                "Acer"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "arm",
+                "celeron"
+            ],
+            "displayValue": [
+                "arm",
+                "celeron"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "64-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb",
+                "2-tb"
+            ],
+            "displayValue": [
+                "100 GB",
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i90",
+        "name": "Kuhn-Jerde",
+        "detail": "A nisi architecto commodi fugit. Numquam aut harum et fuga et delectus aut. Facilis deleniti molestiae praesentium eius quae aliquam sit.",
+        "rating": 0.4,
+        "price": 5038,
+        "date": "2018-09-27 15:36:51",
+        "manufactory": {
+            "value": [
+                "dell",
+                "lenovo",
+                "hp"
+            ],
+            "displayValue": [
+                "Dell",
+                "Lenovo",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core",
+                "core-i7",
+                "pen-v",
+                "core-i3"
+            ],
+            "displayValue": [
+                "dual core",
+                "core i7",
+                "pen V",
+                "core i3"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "2-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "2 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb",
+                "1-tb",
+                "2-tb"
+            ],
+            "displayValue": [
+                "100 GB",
+                "1 TB",
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i91",
+        "name": "Kuphal Ltd",
+        "detail": "Quo est recusandae non nostrum et. Et saepe error nisi quia modi non. Nobis doloremque nostrum aliquam odit sed iste officia.",
+        "rating": 3.7,
+        "price": 3221,
+        "date": "2018-04-08 05:50:47",
+        "manufactory": {
+            "value": [
+                "lenovo",
+                "acer",
+                "hp",
+                "xiaomi",
+                "asus"
+            ],
+            "displayValue": [
+                "Lenovo",
+                "Acer",
+                "HP",
+                "Xiaomi",
+                "Asus"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core",
+                "arm",
+                "pen-iv"
+            ],
+            "displayValue": [
+                "dual core",
+                "arm",
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb",
+                "8-gb"
+            ],
+            "displayValue": [
+                "16 GB",
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb"
+            ],
+            "displayValue": [
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i92",
+        "name": "Terry-Metz",
+        "detail": "Vel voluptate voluptas excepturi sunt. Ducimus provident veniam sit amet illo est dolores. Doloribus eligendi aliquid exercitationem et modi veniam. Unde aut corporis quis ea dicta temporibus.",
+        "rating": 2.5,
+        "price": 9661,
+        "date": "2018-10-24 23:24:12",
+        "manufactory": {
+            "value": [
+                "lenovo",
+                "acer",
+                "samsung",
+                "toshiba"
+            ],
+            "displayValue": [
+                "Lenovo",
+                "Acer",
+                "Samsung",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "pen-v",
+                "celeron",
+                "core-i3",
+                "pen-iv"
+            ],
+            "displayValue": [
+                "pen V",
+                "celeron",
+                "core i3",
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "4-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "4 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "1-tb",
+                "200-gb",
+                "500-gb"
+            ],
+            "displayValue": [
+                "1 TB",
+                "200 GB",
+                "500 GB"
+            ]
+        }
+    },
+    {
+        "id": "i93",
+        "name": "Lang Group",
+        "detail": "Unde quam ea iure rerum architecto ut. Repellendus alias ab necessitatibus cum. Cupiditate alias eos voluptate perspiciatis consectetur. Ut optio tempore aperiam et tempora minus.",
+        "rating": 2.8,
+        "price": 3399,
+        "date": "2019-01-11 13:31:28",
+        "manufactory": {
+            "value": [
+                "xiaomi",
+                "acer",
+                "dell",
+                "hp"
+            ],
+            "displayValue": [
+                "Xiaomi",
+                "Acer",
+                "Dell",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i5",
+                "pen-iii",
+                "pen-v"
+            ],
+            "displayValue": [
+                "core i5",
+                "pen III",
+                "pen V"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb",
+                "32-gb",
+                "64-gb"
+            ],
+            "displayValue": [
+                "16 GB",
+                "32 GB",
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "100-gb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i94",
+        "name": "Mueller-Huel",
+        "detail": "Repellendus ipsum error et qui. Nihil commodi voluptate saepe consequatur. Dolore velit suscipit et et voluptatem. Eum molestiae corrupti occaecati.",
+        "rating": 1.9,
+        "price": 2520,
+        "date": "2018-09-10 23:04:39",
+        "manufactory": {
+            "value": [
+                "lenovo"
+            ],
+            "displayValue": [
+                "Lenovo"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "arm",
+                "pen-v",
+                "pen-iii",
+                "pen-iv",
+                "core-i5"
+            ],
+            "displayValue": [
+                "arm",
+                "pen V",
+                "pen III",
+                "pen IV",
+                "core i5"
+            ]
+        },
+        "ram": {
+            "value": [
+                "4-gb",
+                "2-gb",
+                "8-gb"
+            ],
+            "displayValue": [
+                "4 GB",
+                "2 GB",
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb"
+            ],
+            "displayValue": [
+                "100 GB"
+            ]
+        }
+    },
+    {
+        "id": "i95",
+        "name": "Keebler-D'Amore",
+        "detail": "Numquam eligendi at adipisci ut esse quisquam asperiores. Aut voluptatem velit maiores sunt temporibus. Error aliquam quia inventore fugiat. Minima nihil dolorem quaerat animi iusto enim.",
+        "rating": 0.8,
+        "price": 2069,
+        "date": "2018-03-17 08:34:09",
+        "manufactory": {
+            "value": [
+                "toshiba",
+                "acer",
+                "xiaomi",
+                "hp"
+            ],
+            "displayValue": [
+                "Toshiba",
+                "Acer",
+                "Xiaomi",
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "celeron",
+                "dual-core",
+                "pen-iv",
+                "core-i3"
+            ],
+            "displayValue": [
+                "celeron",
+                "dual core",
+                "pen IV",
+                "core i3"
+            ]
+        },
+        "ram": {
+            "value": [
+                "6-gb",
+                "16-gb",
+                "32-gb",
+                "4-gb"
+            ],
+            "displayValue": [
+                "6 GB",
+                "16 GB",
+                "32 GB",
+                "4 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb",
+                "200-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "100 GB",
+                "200 GB",
+                "1 TB"
+            ]
+        }
+    },
+    {
+        "id": "i96",
+        "name": "Roob, Hand and Thiel",
+        "detail": "Nisi dolorum ipsum provident enim. Deserunt non quia accusamus distinctio quaerat at. Quidem tempora fuga maxime veritatis nemo ipsum soluta.",
+        "rating": 3.7,
+        "price": 6204,
+        "date": "2018-10-25 08:35:44",
+        "manufactory": {
+            "value": [
+                "hp",
+                "toshiba"
+            ],
+            "displayValue": [
+                "HP",
+                "Toshiba"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "dual-core",
+                "celeron",
+                "core-i7"
+            ],
+            "displayValue": [
+                "dual core",
+                "celeron",
+                "core i7"
+            ]
+        },
+        "ram": {
+            "value": [
+                "16-gb",
+                "32-gb"
+            ],
+            "displayValue": [
+                "16 GB",
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "500-gb",
+                "100-gb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "500 GB",
+                "100 GB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i97",
+        "name": "Sauer, Thiel and Schoen",
+        "detail": "Quas assumenda sed dolor quam. Natus illo molestiae iste soluta error et repellat. Voluptatem molestiae ad qui omnis non repudiandae. Soluta aliquam voluptates odio numquam corrupti.",
+        "rating": 0.4,
+        "price": 9359,
+        "date": "2018-06-08 03:29:23",
+        "manufactory": {
+            "value": [
+                "dell",
+                "asus"
+            ],
+            "displayValue": [
+                "Dell",
+                "Asus"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "celeron",
+                "core-i5",
+                "core-i3",
+                "pen-v",
+                "pen-iv"
+            ],
+            "displayValue": [
+                "celeron",
+                "core i5",
+                "core i3",
+                "pen V",
+                "pen IV"
+            ]
+        },
+        "ram": {
+            "value": [
+                "8-gb"
+            ],
+            "displayValue": [
+                "8 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "200-gb",
+                "1-tb",
+                "2-tb"
+            ],
+            "displayValue": [
+                "200 GB",
+                "1 TB",
+                "2 TB"
+            ]
+        }
+    },
+    {
+        "id": "i98",
+        "name": "Effertz-Dach",
+        "detail": "Id placeat a est. Dolor qui nemo est iusto perferendis. Adipisci dolor facere cupiditate sed possimus.",
+        "rating": 4.7,
+        "price": 5604,
+        "date": "2019-02-27 07:51:46",
+        "manufactory": {
+            "value": [
+                "acer",
+                "sony",
+                "asus"
+            ],
+            "displayValue": [
+                "Acer",
+                "Sony",
+                "Asus"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i5",
+                "celeron",
+                "arm",
+                "dual-core",
+                "core-i3"
+            ],
+            "displayValue": [
+                "core i5",
+                "celeron",
+                "arm",
+                "dual core",
+                "core i3"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb"
+            ],
+            "displayValue": [
+                "32 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "2-tb",
+                "200-gb"
+            ],
+            "displayValue": [
+                "2 TB",
+                "200 GB"
+            ]
+        }
+    },
+    {
+        "id": "i99",
+        "name": "Johnston-Rolfson",
+        "detail": "Eius qui ab aliquid quidem voluptatum. Facere praesentium voluptate non exercitationem. Optio iste molestias quas explicabo perferendis. Blanditiis voluptatem natus est in fugiat dolorem dolores.",
+        "rating": 4,
+        "price": 5549,
+        "date": "2018-07-15 04:29:09",
+        "manufactory": {
+            "value": [
+                "hp"
+            ],
+            "displayValue": [
+                "HP"
+            ]
+        },
+        "cpu": {
+            "value": [
+                "core-i3",
+                "core-i7",
+                "dual-core",
+                "pen-iv",
+                "arm"
+            ],
+            "displayValue": [
+                "core i3",
+                "core i7",
+                "dual core",
+                "pen IV",
+                "arm"
+            ]
+        },
+        "ram": {
+            "value": [
+                "32-gb",
+                "64-gb"
+            ],
+            "displayValue": [
+                "32 GB",
+                "64 GB"
+            ]
+        },
+        "hdd": {
+            "value": [
+                "100-gb",
+                "1-tb"
+            ],
+            "displayValue": [
+                "100 GB",
+                "1 TB"
+            ]
+        }
+    }
+]
