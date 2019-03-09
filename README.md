@@ -1,7 +1,7 @@
 # js-filter
 JS filter for JSON data.
 
-Made by vue and php.
+Made by vue, vuex, vue-router and php.
 
 Features:
 - Allow filter with text, radio, checkbox, date, slider, select, multiselect
